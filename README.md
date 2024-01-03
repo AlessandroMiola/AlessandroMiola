@@ -11,7 +11,7 @@ Mathematical engineer working in _risk management_ and willing to turn ***Softwa
 ### 💫 About Me:
 
 - 🔭 Aspiring Python Developer | AI scientist
-- 🌱 Currently learning: modern 🐍 `Python` development, `FastAPI`, `ML` and `DL` libraries and theory. Willing to learn 🦀 `Rust` as well.
+- 🌱 Currently learning: modern 🐍 `Python` development, `FastAPI`, `ML` and `DL` libraries and theory.
 - 👯 Looking forward to contributing to *open source* libraries in the future.
 
 
